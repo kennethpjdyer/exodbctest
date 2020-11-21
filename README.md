@@ -1,6 +1,8 @@
-# Exodbctest
+# ExODBCTest
 
-**TODO: Add description**
+This module is intended for development and experimentation purposes only.  The goal is to investigate the viability of connecting to MariaDB Server using Connector/ODBC from Elixir through Erlang ODBC.
+
+Initial investigation shwos that it is possible, but the lack of documentation for Erlang ODBC module necessitates exploration and further testing.
 
 ## Installation
 
